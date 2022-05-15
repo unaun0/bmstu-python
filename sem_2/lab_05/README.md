@@ -1,3 +1,3 @@
-##Lab №5
+## Lab №5
 
 Jumping Dino game.
